@@ -1,0 +1,45 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color:#dee2ff;
+  border:dashed;
+}
+
+h1 {
+  font-style: italic;
+  color: #1d3557;
+}
+p{
+  color:#006d77;
+}
+#ss{
+  display: flex;
+  justify-content: center;
+  
+}
+
+
+
+#number {
+  position: relative;
+  float:left;
+  top: 8px;
+  left: 16px;
+}
+
+
+.button{
+  background-color:#012a4a;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  color: #ffff3f;
+
+}
+
+img{
+ width:50%;
+  hight:40%;
+}
